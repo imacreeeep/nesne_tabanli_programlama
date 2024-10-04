@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\banka_hesabi_islemleri\banka_hesabi_islemleri\bin\Debug\net8.0\banka_hesabi_islemleri.exe
+C:\Users\USER\source\repos\banka_hesabi_islemleri\banka_hesabi_islemleri\bin\Debug\net8.0\banka_hesabi_islemleri.deps.json
+C:\Users\USER\source\repos\banka_hesabi_islemleri\banka_hesabi_islemleri\bin\Debug\net8.0\banka_hesabi_islemleri.runtimeconfig.json
+C:\Users\USER\source\repos\banka_hesabi_islemleri\banka_hesabi_islemleri\bin\Debug\net8.0\banka_hesabi_islemleri.dll
+C:\Users\USER\source\repos\banka_hesabi_islemleri\banka_hesabi_islemleri\bin\Debug\net8.0\banka_hesabi_islemleri.pdb
+C:\Users\USER\source\repos\banka_hesabi_islemleri\banka_hesabi_islemleri\obj\Debug\net8.0\banka_hesabi_islemleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\banka_hesabi_islemleri\banka_hesabi_islemleri\obj\Debug\net8.0\banka_hesabi_islemleri.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\banka_hesabi_islemleri\banka_hesabi_islemleri\obj\Debug\net8.0\banka_hesabi_islemleri.AssemblyInfo.cs
+C:\Users\USER\source\repos\banka_hesabi_islemleri\banka_hesabi_islemleri\obj\Debug\net8.0\banka_hesabi_islemleri.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\banka_hesabi_islemleri\banka_hesabi_islemleri\obj\Debug\net8.0\banka_hesabi_islemleri.dll
+C:\Users\USER\source\repos\banka_hesabi_islemleri\banka_hesabi_islemleri\obj\Debug\net8.0\refint\banka_hesabi_islemleri.dll
+C:\Users\USER\source\repos\banka_hesabi_islemleri\banka_hesabi_islemleri\obj\Debug\net8.0\banka_hesabi_islemleri.pdb
+C:\Users\USER\source\repos\banka_hesabi_islemleri\banka_hesabi_islemleri\obj\Debug\net8.0\banka_hesabi_islemleri.genruntimeconfig.cache
+C:\Users\USER\source\repos\banka_hesabi_islemleri\banka_hesabi_islemleri\obj\Debug\net8.0\ref\banka_hesabi_islemleri.dll
