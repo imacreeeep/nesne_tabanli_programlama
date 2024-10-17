@@ -1,0 +1,7 @@
+C:\Users\HBV\source\repos\ntp5_uygulama\ntp5_uygulama\bin\Debug\ntp5_uygulama.exe.config
+C:\Users\HBV\source\repos\ntp5_uygulama\ntp5_uygulama\bin\Debug\ntp5_uygulama.exe
+C:\Users\HBV\source\repos\ntp5_uygulama\ntp5_uygulama\bin\Debug\ntp5_uygulama.pdb
+C:\Users\HBV\source\repos\ntp5_uygulama\ntp5_uygulama\obj\Debug\ntp5_uygulama.csproj.AssemblyReference.cache
+C:\Users\HBV\source\repos\ntp5_uygulama\ntp5_uygulama\obj\Debug\ntp5_uygulama.csproj.CoreCompileInputs.cache
+C:\Users\HBV\source\repos\ntp5_uygulama\ntp5_uygulama\obj\Debug\ntp5_uygulama.exe
+C:\Users\HBV\source\repos\ntp5_uygulama\ntp5_uygulama\obj\Debug\ntp5_uygulama.pdb
