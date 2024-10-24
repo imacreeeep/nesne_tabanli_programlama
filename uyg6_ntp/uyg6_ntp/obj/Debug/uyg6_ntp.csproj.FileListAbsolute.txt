@@ -1,0 +1,7 @@
+C:\Users\HBV\source\repos\uyg6_ntp\uyg6_ntp\bin\Debug\uyg6_ntp.exe.config
+C:\Users\HBV\source\repos\uyg6_ntp\uyg6_ntp\bin\Debug\uyg6_ntp.exe
+C:\Users\HBV\source\repos\uyg6_ntp\uyg6_ntp\bin\Debug\uyg6_ntp.pdb
+C:\Users\HBV\source\repos\uyg6_ntp\uyg6_ntp\obj\Debug\uyg6_ntp.csproj.AssemblyReference.cache
+C:\Users\HBV\source\repos\uyg6_ntp\uyg6_ntp\obj\Debug\uyg6_ntp.csproj.CoreCompileInputs.cache
+C:\Users\HBV\source\repos\uyg6_ntp\uyg6_ntp\obj\Debug\uyg6_ntp.exe
+C:\Users\HBV\source\repos\uyg6_ntp\uyg6_ntp\obj\Debug\uyg6_ntp.pdb
