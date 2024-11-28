@@ -1,0 +1,7 @@
+C:\Users\HBV\source\repos\ntp_uyg11\ntp_uyg11\bin\Debug\ntp_uyg11.exe.config
+C:\Users\HBV\source\repos\ntp_uyg11\ntp_uyg11\bin\Debug\ntp_uyg11.exe
+C:\Users\HBV\source\repos\ntp_uyg11\ntp_uyg11\bin\Debug\ntp_uyg11.pdb
+C:\Users\HBV\source\repos\ntp_uyg11\ntp_uyg11\obj\Debug\ntp_uyg11.csproj.AssemblyReference.cache
+C:\Users\HBV\source\repos\ntp_uyg11\ntp_uyg11\obj\Debug\ntp_uyg11.csproj.CoreCompileInputs.cache
+C:\Users\HBV\source\repos\ntp_uyg11\ntp_uyg11\obj\Debug\ntp_uyg11.exe
+C:\Users\HBV\source\repos\ntp_uyg11\ntp_uyg11\obj\Debug\ntp_uyg11.pdb
