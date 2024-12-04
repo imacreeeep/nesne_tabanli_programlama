@@ -1,0 +1,3 @@
+satır 1: işlem başlatıldı
+satır 2: işlem devam ediyor
+satır 3: işlem tamamlandı
