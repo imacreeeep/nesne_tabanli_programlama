@@ -1,0 +1,7 @@
+C:\Users\HBV\source\repos\ntp_hafta14\ntp_hafta14\bin\Debug\ntp_hafta14.exe.config
+C:\Users\HBV\source\repos\ntp_hafta14\ntp_hafta14\bin\Debug\ntp_hafta14.exe
+C:\Users\HBV\source\repos\ntp_hafta14\ntp_hafta14\bin\Debug\ntp_hafta14.pdb
+C:\Users\HBV\source\repos\ntp_hafta14\ntp_hafta14\obj\Debug\ntp_hafta14.csproj.AssemblyReference.cache
+C:\Users\HBV\source\repos\ntp_hafta14\ntp_hafta14\obj\Debug\ntp_hafta14.csproj.CoreCompileInputs.cache
+C:\Users\HBV\source\repos\ntp_hafta14\ntp_hafta14\obj\Debug\ntp_hafta14.exe
+C:\Users\HBV\source\repos\ntp_hafta14\ntp_hafta14\obj\Debug\ntp_hafta14.pdb
