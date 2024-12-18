@@ -1,0 +1,7 @@
+C:\Users\HBV\source\repos\ntp14\ntp14\bin\Debug\ntp14.exe.config
+C:\Users\HBV\source\repos\ntp14\ntp14\bin\Debug\ntp14.exe
+C:\Users\HBV\source\repos\ntp14\ntp14\bin\Debug\ntp14.pdb
+C:\Users\HBV\source\repos\ntp14\ntp14\obj\Debug\ntp14.csproj.AssemblyReference.cache
+C:\Users\HBV\source\repos\ntp14\ntp14\obj\Debug\ntp14.csproj.CoreCompileInputs.cache
+C:\Users\HBV\source\repos\ntp14\ntp14\obj\Debug\ntp14.exe
+C:\Users\HBV\source\repos\ntp14\ntp14\obj\Debug\ntp14.pdb
