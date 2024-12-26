@@ -1,0 +1,7 @@
+C:\Users\HBV\source\repos\ntp15_uyg\bin\Debug\ntp15_uyg.exe.config
+C:\Users\HBV\source\repos\ntp15_uyg\bin\Debug\ntp15_uyg.exe
+C:\Users\HBV\source\repos\ntp15_uyg\bin\Debug\ntp15_uyg.pdb
+C:\Users\HBV\source\repos\ntp15_uyg\obj\Debug\ntp15_uyg.csproj.AssemblyReference.cache
+C:\Users\HBV\source\repos\ntp15_uyg\obj\Debug\ntp15_uyg.csproj.CoreCompileInputs.cache
+C:\Users\HBV\source\repos\ntp15_uyg\obj\Debug\ntp15_uyg.exe
+C:\Users\HBV\source\repos\ntp15_uyg\obj\Debug\ntp15_uyg.pdb
